@@ -4,6 +4,8 @@ description: An Overview on The Matching Principle and Long-lived Assets
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/42cae1a0da1d9be1043d5115bff18eaf_lec7overview.pdf
 file_size: 32018
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

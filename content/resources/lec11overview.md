@@ -4,6 +4,8 @@ description: Objectives and class preparation questions on 'Accounting for Taxes
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/c68d6953d5c8f71f4754a65038bf236b_lec11overview.pdf
 file_size: 80163
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

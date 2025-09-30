@@ -30,6 +30,7 @@
     "website": "15-514-financial-and-managerial-accounting-summer-2003"
   },
   "course_title": "Financial and Managerial Accounting",
+  "hide_download": true,
   "course_description": "15.514 is an\u00a0intensive introduction to the preparation and interpretation of financial information for investors (external users) and managers (internal users) and to the use of financial instruments to support system and project creation. The course adopts a decision-maker perspective on accounting and finance with the goal of helping students\u00a0develop a framework for understanding financial, managerial, and tax reports. 15.514 is\u00a0restricted to System Design and Management students.\n\nAcknowledgements\n----------------\n\nAcknowledgement is hereby given to Professor G. Peter Wilson for his authorship of the following content in this course:\n\n*   The Five Challenges (see Syllabus and Lecture 1)\n*   \"What Do Intel and Accountants Have in Common?\" (see Lecture 1)\n*   A Conceptual Framework for Financial Accounting (see Lecture 1)\n",
   "department_numbers": [
     "15"
@@ -40,6 +41,7 @@
     "content": "a55685d0-2fe4-8d47-df03-035f60a90d84",
     "website": "15-514-financial-and-managerial-accounting-summer-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
