@@ -17,7 +17,7 @@ Course Materials
 
 Text: Pratt, J. _Financial Accounting in an Economic Context._ 5th ed. John Wiley & Sons, Inc. (hereafter cited as Pratt).
 
-Supplement Material: Intel Corporation 2002 Annual Report and SEC Form 10-K ([download](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf)). The PDF file is 102 pages long, feel free to keep it on your computer and print out only key sections as they are needed.
+Supplement Material: Intel Corporation 2002 Annual Report and SEC Form 10-K ({{% resource_link "108037f9-c841-4a6c-99f6-0088b5182c65" "download" %}}). The PDF file is 102 pages long, feel free to keep it on your computer and print out only key sections as they are needed.
 
 Case Pack: Includes supplemental readings and cases (hereafter cited to as CP).
 
